@@ -15,7 +15,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["react", "@typescript-eslint"],
+  "plugins": ["react", "@typescript-eslint", "baseui"],
   "rules": {
     "react/jsx-filename-extension": "off",
     "react/react-in-jsx-scope": "off",

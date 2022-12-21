@@ -12,13 +12,16 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "baseui": "^12.2.0",
     "classnames": "^2.3.2",
     "lodash": "^4.17.21",
     "luxon": "^3.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.5.0",
-    "react-router-dom": "^6.5.0"
+    "react-router-dom": "^6.5.0",
+    "styletron-engine-atomic": "^1.5.0",
+    "styletron-react": "^6.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
@@ -39,6 +42,7 @@
     "eslint": "^8.30.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-baseui": "^12.2.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-react": "^7.31.11",
